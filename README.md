@@ -1,13 +1,42 @@
-👋 Hi, I'm @izabelaxavier
+### Olá! Eu sou a Izabela Xavier 👋
 
-✨ I'm interested in Desenvolvimento Web, criação de soluções digitais inovadoras, e como a tecnologia pode resolver problemas do dia a dia.
+**Backend Developer em formação | Entusiasta Java & Spring Boot**
 
-☕ Backend Developer in training 🚀 Foco: Java | Spring Boot | API REST | SQL 🎓 Análise e Desenvolvimento de Sistemas @ Uninter 💡 Criando soluções escaláveis e seguras (como sistemas de Auditoria e Gestão)
+Atualmente sou estagiária de TI na **Prefeitura de Matozinhos**, onde desenvolvo soluções reais para otimizar a gestão pública. Meu foco é transformar processos manuais em sistemas eficientes e escaláveis.
 
-👯‍♀️ I'm looking to collaborate on Projetos desafiadores que me permitam aprender novas tecnologias, crescer como desenvolvedora e contribuir para equipes inovadoras.
+---
 
-📫 How to reach me: 📧 E-mail: izabelaxavier89@gmail.com | 🔗 LinkedIn: https://www.linkedin.com/in/izabela-de-jesus-966540199/
-<!---
-izabelaxavier/izabelaxavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tech Stack
+**Minhas ferramentas do dia a dia:**
+
+* ☕ **Backend:** Java, Spring Boot, API REST
+* 🗄️ **Banco de Dados:** MySQL, SQL
+* 💻 **Frontend:** HTML, CSS, JavaScript (Foco em Dashboards e Ferramentas Internas)
+* ⚙️ **Ferramentas:** Git, IntelliJ IDEA, Postman
+
+---
+
+### 🚀 Projetos em Destaque
+
+**📂 Sistema de Controle Fiscal (Prefeitura de Matozinhos)**
+> *Fullstack Application (Java + MySQL)*
+>
+> Desenvolvi e implantei uma solução interna para gestão de notas fiscais municipais. O sistema substituiu planilhas manuais, garantindo 100% de rastreabilidade dos documentos entre setores.
+> * **Funcionalidades:** CRUD completo, Dashboard de indicadores em tempo real, validação de regras de negócio e exportação de relatórios (Excel).
+> * **Impacto:** Otimização do tempo do setor financeiro e maior transparência no fluxo de documentos.
+
+---
+
+### 🎓 Formação
+* **Análise e Desenvolvimento de Sistemas** @ Uninter (Previsão: 2027)
+
+---
+
+### 📫 Contato
+Vamos conversar sobre tecnologia e projetos?
+
+* 📧 **E-mail:** izabelaxavier89@gmail.com
+* 🔗 **LinkedIn:** [Izabela Xavier](https://www.linkedin.com/in/izabela-de-jesus-966540199/)
+
+---
+*“A tecnologia existe para resolver problemas reais.”* 🚀
