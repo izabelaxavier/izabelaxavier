@@ -17,6 +17,7 @@ Atualmente sou estagiária de TI na **Prefeitura de Matozinhos**, onde desenvolv
 ---
 
 🚀 Projetos em Destaque
+
 📂 Sistema de Controle Fiscal (Prefeitura de Matozinhos) Fullstack Application (Java + MySQL) Desenvolvi e implantei uma solução interna para gestão de notas fiscais municipais. O sistema substituiu planilhas manuais, garantindo 100% de rastreabilidade dos documentos entre setores.
 
 Funcionalidades: CRUD completo, Dashboard de indicadores em tempo real e exportação de relatórios.
