@@ -16,15 +16,20 @@ Atualmente sou estagiária de TI na **Prefeitura de Matozinhos**, onde desenvolv
 
 ---
 
-### 🚀 Projetos em Destaque
+🚀 Projetos em Destaque
+📂 Sistema de Controle Fiscal (Prefeitura de Matozinhos) Fullstack Application (Java + MySQL) Desenvolvi e implantei uma solução interna para gestão de notas fiscais municipais. O sistema substituiu planilhas manuais, garantindo 100% de rastreabilidade dos documentos entre setores.
 
-**📂 Sistema de Controle Fiscal (Prefeitura de Matozinhos)**
-> *Fullstack Application (Java + MySQL)*
->
-> Desenvolvi e implantei uma solução interna para gestão de notas fiscais municipais. O sistema substituiu planilhas manuais, garantindo 100% de rastreabilidade dos documentos entre setores.
-> * **Funcionalidades:** CRUD completo, Dashboard de indicadores em tempo real, validação de regras de negócio e exportação de relatórios (Excel).
-> * **Impacto:** Otimização do tempo do setor financeiro e maior transparência no fluxo de documentos.
+Funcionalidades: CRUD completo, Dashboard de indicadores em tempo real e exportação de relatórios.
 
+Impacto: Otimização do tempo do setor financeiro e maior transparência no fluxo de documentos.
+
+📂 Keley Bolos API 🍰 Backend Application (Java + Spring Boot + PostgreSQL) API desenvolvida para gerenciar o cardápio e operações de uma confeitaria real. O projeto foca em boas práticas de arquitetura REST e segurança de dados.
+
+Funcionalidades: Gerenciamento de catálogo, persistência de dados em nuvem e integração contínua.
+
+Destaque Técnico: Deploy em produção via Render e configuração de segurança com variáveis de ambiente.
+
+Live Demo: Acesse a API aqui
 ---
 
 ### 🎓 Formação
