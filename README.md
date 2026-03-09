@@ -1,7 +1,10 @@
 # Olá! Eu sou a Izabela Xavier 👋
 **Backend Developer em formação | Entusiasta Java & Spring Boot**
 
-Atualmente sou estagiária de TI na Prefeitura de Matozinhos, onde desenvolvo soluções reais para otimizar a gestão pública. Meu foco é transformar processos manuais em sistemas eficientes e escaláveis.
+Atualmente sou estagiária de TI na Prefeitura de Matozinhos, Desenvolvi e implantei uma solução interna para o setor de 
+informática da Prefeitura de Matozinhos, substituindo planilhas 
+manuais no controle de notas fiscais do setor. Sistema atualmente 
+em uso ativo pela equipe.
 
 ---
 
