@@ -1,17 +1,17 @@
 # Olá! Eu sou a Izabela Xavier 👋
-**Backend Developer em formação | Entusiasta Java & Spring Boot**
 
-Atualmente sou estagiária de TI na Prefeitura de Matozinhos, Desenvolvi e implantei uma solução interna para o setor de 
-informática da Prefeitura de Matozinhos, substituindo planilhas 
-manuais no controle de notas fiscais do setor. Sistema atualmente 
-em uso ativo pela equipe.
+**Backend Developer | Java • Spring Boot • APIs REST**
+
+Atualmente sou estagiária de TI na Prefeitura de Matozinhos, onde desenvolvi e implantei uma solução interna para o controle de notas fiscais.
+
+A aplicação substituiu planilhas manuais e está em uso ativo pela equipe, trazendo mais organização e eficiência ao processo.
 
 ---
 
 ### 🌐 Conecte-se comigo
 [![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://meu-portfolio-backend-production.up.railway.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izabela-xavier-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](izabelaxavier89@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izabelaxavier89@gmail.com)
 
 ---
 
@@ -29,22 +29,34 @@ em uso ativo pela equipe.
 ### 🚀 Projetos em Destaque
 
 #### 📂 Sistema de Controle Fiscal (Prefeitura de Matozinhos)
-*Fullstack Application (Java + MySQL)*
-Desenvolvi e implantei uma solução interna para gestão de notas fiscais municipais. O sistema substituiu planilhas manuais, garantindo 100% de rastreabilidade.
+*Fullstack Application (Java + Spring Boot + MySQL)*
+
+Desenvolvi e implantei uma solução interna para gestão de notas fiscais municipais. O sistema substituiu planilhas manuais, melhorando a rastreabilidade e organização dos dados.
+
 > **Impacto:** Otimização do tempo do setor financeiro e maior transparência no fluxo de documentos.
+
+🔗 [Ver projeto no GitHub](https://github.com/izabelaxavier/controle-notas-fiscais)
+
+---
 
 #### 📂 Keley Bolos API 🍰
 *Backend Application (Java + Spring Boot + PostgreSQL)*
-API desenvolvida para gerenciar o cardápio e operações de uma confeitaria real. Foco em arquitetura REST e segurança.
-* **Destaque Técnico:** Implementação de variáveis de ambiente para segurança e arquitetura baseada em Clean Code.
-* **Status:** Repositório disponível para consulta no GitHub.
+
+API desenvolvida para gerenciar o cardápio e operações de uma confeitaria real.
+
+- Arquitetura REST  
+- Organização de código seguindo boas práticas  
+- Uso de variáveis de ambiente para maior segurança  
+
+🔗 [Ver projeto no GitHub](https://github.com/izabelaxavier)
 
 ---
 
 ### 🎓 Formação
-* **Análise e Desenvolvimento de Sistemas** @ Uninter (Previsão: 2027)
-* **Java Development** @ FIAP (60 horas)
+- **Análise e Desenvolvimento de Sistemas** — Uninter (Previsão: 2027)  
+- **Java Development** — FIAP (60 horas)
 
 ---
 
-*“A tecnologia existe para resolver problemas reais.”*
+### 💡 Frase
+*"A tecnologia existe para resolver problemas reais."*
