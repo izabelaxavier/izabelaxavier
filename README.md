@@ -40,16 +40,22 @@ Desenvolvi e implantei uma solução interna para gestão de notas fiscais munic
 ---
 
 #### 📂 Keley Bolos API 🍰
-*Backend Application (Java + Spring Boot + PostgreSQL)*
 
-API desenvolvida para gerenciar o cardápio e operações de uma confeitaria real.
+*Fullstack Application (Java 17 + Spring Boot 3 + PostgreSQL + Docker)*
 
-- Arquitetura REST  
-- Organização de código seguindo boas práticas  
-- Uso de variáveis de ambiente para maior segurança  
+Sistema desenvolvido para digitalizar a operação de uma confeitaria real, 
+substituindo controles manuais por uma aplicação completa em produção.
 
-🔗 [Ver projeto no GitHub](https://github.com/izabelaxavier)
+- Autenticação com controle de perfis (RBAC) — Dona e Funcionário
+- Painel financeiro com métricas de faturamento por forma de pagamento
+- Gestão de pedidos com controle de status e entregas pendentes
+- Geração automática de comprovantes em PDF
+- Containerizado com Docker e hospedado no Railway
 
+> **Status:** ✅ Em produção
+
+🔗 [Ver projeto no GitHub](https://github.com/izabelaxavier/keley-bolos-api)
+🔗 [Acessar aplicação](https://keley-bolos-api-production.up.railway.app/)
 ---
 
 ### 🎓 Formação
