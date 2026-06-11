@@ -1,15 +1,12 @@
 # Olá! Eu sou a Izabela Xavier 👋
 
-**Backend Developer | Java • Spring Boot • APIs REST**
+**Desenvolvedora Backend Java | Especialista em Spring Boot e APIs REST**
 
-Atualmente sou estagiária de TI na Prefeitura de Matozinhos, onde desenvolvi e implantei uma solução interna para o controle de notas fiscais.
-
-A aplicação substituiu planilhas manuais e está em uso ativo pela equipe, trazendo mais organização e eficiência ao processo.
+Transformo requisitos de negócio em soluções robustas e escaláveis, com foco em Java, Spring Boot e arquiteturas de microsserviços. Atualmente, aplico minhas habilidades para otimizar processos e desenvolver sistemas que geram impacto real.
 
 ---
 
 ### 🌐 Conecte-se comigo
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://meu-portfolio-backend-production.up.railway.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izabela-xavier-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izabelaxavier89@gmail.com)
 
