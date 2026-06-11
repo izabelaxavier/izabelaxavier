@@ -44,7 +44,7 @@ Desenvolvi e implantei uma solução interna para gestão de notas fiscais munic
 
 ---
 
-#### 📂 Keley Bolos API 🍰
+#### 📂 Keley Bolos Backend 🍰
 
 *Fullstack Application (Java 17 + Spring Boot 3 + PostgreSQL + Docker)*
 
@@ -61,7 +61,7 @@ substituindo controles manuais por uma aplicação completa em produção.
 
 > **Veja em Ação:** Confira um vídeo demonstrativo das funcionalidades do Keley Bolos API diretamente no repositório do projeto!
 
-🔗 [Ver projeto no GitHub](https://github.com/izabelaxavier/keley-bolos-api)
+🔗 [Ver projeto no GitHub](https://github.com/izabelaxavier/keley-bolos-backend)
 🔗 [Acessar aplicação](https://keley-bolos-api-production.up.railway.app/)
 ---
 
