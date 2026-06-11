@@ -12,14 +12,22 @@ Transformo requisitos de negócio em soluções robustas e escaláveis, com foco
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Minhas Ferramentas e Tecnologias
 
-| Camada | Tecnologias |
-| :--- | :--- |
-| **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) |
-| **Banco de Dados** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker,aws,html,css,js,react,figma" />
+  </a>
+</p>
+
+### 📊 Minhas Estatísticas no GitHub
+
+[![Izabela Xavier GitHub Stats](https://github-readme-stats.vercel.app/api?username=izabelaxavier&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 💡 Desafios e Aprendizados
+
+Durante o desenvolvimento do Sistema de Controle Fiscal, enfrentei o desafio de integrar um sistema legado de emissão de notas com a nova aplicação. Optei por desenvolver uma API REST customizada que atuasse como um middleware, traduzindo os dados e garantindo a compatibilidade. Essa experiência me aprofundou em padrões de integração e resiliência de sistemas distribuídos.
+
 
 ---
 
@@ -51,6 +59,8 @@ substituindo controles manuais por uma aplicação completa em produção.
 
 > **Status:** ✅ Em produção
 
+> **Veja em Ação:** Confira um vídeo demonstrativo das funcionalidades do Keley Bolos API diretamente no repositório do projeto!
+
 🔗 [Ver projeto no GitHub](https://github.com/izabelaxavier/keley-bolos-api)
 🔗 [Acessar aplicação](https://keley-bolos-api-production.up.railway.app/)
 ---
@@ -61,5 +71,4 @@ substituindo controles manuais por uma aplicação completa em produção.
 
 ---
 
-### 💡 Frase
-*"A tecnologia existe para resolver problemas reais."*
+
